@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "react-router": "3.2.0",
+    "counterpart": "0.17.9",
+    "prop-types": "15.6.0",
+    "react-translate-component": "0.14.0",
+    "react-interpolate-component": "0.11.0",
+    "whatwg-fetch": "2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
